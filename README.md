@@ -5,7 +5,8 @@
 -   discord bot
     -   recording audio
 -   prompt summarization of the text
-    -   push to trello
+    -   create task card
+    -   push to trello card
     -   demo by using gradio
 
 ## Status
