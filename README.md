@@ -4,7 +4,6 @@
 
 -   discord bot
     -   recording audio
-    -   convert speech to text
 -   prompt summarization of the text
     -   push to trello
     -   demo by using gradio
@@ -13,7 +12,7 @@
 
 | Task           | Status |
 | -------------- | ------ |
-| Speech to text | ??     |
+| discord bot    | ??     |
 | Summarization  | Done   |
 
 ## how to run gradio summarization demo
